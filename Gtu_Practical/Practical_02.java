@@ -12,7 +12,7 @@
  */
 package Gtu_Practical;
 
-public class Practical_2 {
+public class Practical_02 {
     public static void main(String[] args) {
         System.out.println("Given System of Equations is:");
         System.out.println(" 1) 3.4x+50.2y=44.5 \n 2) 2.1x+.55y=5.9");
