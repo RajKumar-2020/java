@@ -6,7 +6,7 @@
  */
 package Gtu_Practical;
 import java.util.Scanner;
-public class Practical_3 {
+public class Practical_03 {
     public static void main(String[] args) {
 		System.out.print("Enter the value in Meters: ");
 		Scanner sc = new Scanner(System.in);
