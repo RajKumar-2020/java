@@ -6,7 +6,7 @@
 
 package Gtu_Practical;
 import java.util.Scanner;
-public class Practical_6 {
+public class Practical_06 {
     public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
