@@ -7,7 +7,7 @@
  */
 package Gtu_Practical;
 import java.util.Scanner;
-public class Practical_8 {
+public class Practical_08 {
     public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); 
 		System.out.print("Enter the number :");
