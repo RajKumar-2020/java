@@ -1,6 +1,6 @@
 package Gtu_Practical;
 
-public class Practical_7 {
+public class Practical_07 {
     public static void main(String[] args) {
 		
 		String numberPlate = ""+(char)(Math.random()*26+65);
