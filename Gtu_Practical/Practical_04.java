@@ -11,7 +11,7 @@
 
 package Gtu_Practical;
 import java.util.Scanner;
-public class Practical_4 {
+public class Practical_04 {
     public static void main(String[] args) {
 		double weight,height,bmi;
 		Scanner input = new Scanner(System.in);
