@@ -5,7 +5,7 @@
  */
 package Gtu_Practical;
 import java.util.Scanner;
-public class Practical_05 {
+public class Practical_005 {
     public static void main(String[] args) {
 		int i,j,arr[]= {0,0,0};
 		
